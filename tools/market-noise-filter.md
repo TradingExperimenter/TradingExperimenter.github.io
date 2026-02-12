@@ -18,3 +18,5 @@ is likely to mislead participants.
 - optimise returns
 
 Use it as a visibility tool, not a signal.
+
+Source code: https://github.com/yourusername/market-noise-filter
